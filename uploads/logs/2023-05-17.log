@@ -1,0 +1,11 @@
+[16-May-2023 22:00:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[16-May-2023 22:00:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[17-May-2023 16:43:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[17-May-2023 16:43:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[17-May-2023 17:20:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/controllers/admin/AdminPayments.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\AdminPayments->index()
+#1 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#2 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/allinkc/www/app/controllers/admin/AdminPayments.php on line 28

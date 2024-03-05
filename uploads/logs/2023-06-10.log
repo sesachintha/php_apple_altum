@@ -1,0 +1,19 @@
+[10-Jun-2023 08:39:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 08:39:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 10:09:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 10:09:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 12:44:55 UTC] PHP Warning:  copy(/home/allinkc/www/uploads/block_images/d0d12f01c0b6020ae3576896981a1b3e.jpg): failed to open stream: No such file or directory in /home/allinkc/www/app/core/Uploads.php on line 322
+[10-Jun-2023 13:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 13:08:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 13:09:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 13:09:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 19:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 19:43:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 20:46:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 20:46:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 20:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 20:49:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 20:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 20:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[10-Jun-2023 21:47:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[10-Jun-2023 21:47:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15

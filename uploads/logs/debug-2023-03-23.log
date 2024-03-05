@@ -1,0 +1,28 @@
+[23-Mar-2023 15:23:50 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=missudette): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:23:50 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=missudette&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:23:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:24:24 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=missudette): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:24:24 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=missudette&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:24:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:26:17 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=missudette): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:26:17 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=missudette&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:26:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:28:12 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=https://youtube.com/missudette): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:28:12 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=https://youtube.com/missudette&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:28:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:36:38 UTC] PHP Warning:  simplexml_load_file(https://...@Squeezie): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:36:38 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=@Squeezie&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:36:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:36:49 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=Squeezie): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:36:49 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=Squeezie&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:36:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16
+[23-Mar-2023 15:38:09 UTC] PHP Warning:  simplexml_load_file(https://www.youtube.com/feeds/videos.xml?channel_id=AltumCode): failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:38:09 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;https://www.youtube.com/feeds/videos.xml?channel_id=AltumCode&quot; in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 12
+[23-Mar-2023 15:38:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/plugins/ultimate-blocks/views/l/biolink_blocks/youtube_feed.php on line 16

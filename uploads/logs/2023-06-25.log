@@ -1,0 +1,30 @@
+[24-Jun-2023 23:50:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[24-Jun-2023 23:50:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 05:09:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 05:09:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 05:10:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[25-Jun-2023 06:55:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 06:55:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 07:01:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 07:01:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 07:10:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 07:10:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 07:10:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 07:10:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[25-Jun-2023 09:30:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[25-Jun-2023 19:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[25-Jun-2023 19:02:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15

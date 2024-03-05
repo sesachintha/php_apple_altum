@@ -1,0 +1,11 @@
+[14-Mar-2023 14:33:22 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/allinkc/www/themes/altum/views/page/index.php on line 22
+[14-Mar-2023 14:33:23 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/allinkc/www/themes/altum/views/page/index.php on line 22
+[14-Mar-2023 14:33:40 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/allinkc/www/themes/altum/views/page/index.php on line 22
+[14-Mar-2023 14:33:41 UTC] PHP Parse error:  syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/allinkc/www/themes/altum/views/page/index.php on line 22
+[14-Mar-2023 15:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/controllers/admin/AdminPayments.php:28
+Stack trace:
+#0 [internal function]: Altum\Controllers\AdminPayments->index()
+#1 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#2 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#3 {main}
+  thrown in /home/allinkc/www/app/controllers/admin/AdminPayments.php on line 28

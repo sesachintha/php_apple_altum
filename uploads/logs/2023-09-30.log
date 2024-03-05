@@ -1,0 +1,35 @@
+[29-Sep-2023 22:59:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[29-Sep-2023 22:59:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[30-Sep-2023 11:24:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[30-Sep-2023 11:24:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[30-Sep-2023 11:24:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[30-Sep-2023 11:24:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[30-Sep-2023 16:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[30-Sep-2023 20:11:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[30-Sep-2023 20:11:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[30-Sep-2023 20:17:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[30-Sep-2023 20:17:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[30-Sep-2023 20:41:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[30-Sep-2023 21:29:24 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to SimpleSoftwareIO\QrCode\Generator::createColor() must be of the type int, null given, called in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 323 and defined in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php:534
+Stack trace:
+#0 /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php(323): SimpleSoftwareIO\QrCode\Generator->createColor(NULL, NULL, NULL)
+#1 /home/allinkc/www/app/controllers/QrCodeGenerator.php(267): SimpleSoftwareIO\QrCode\Generator->gradient(NULL, NULL, NULL, NULL, NULL, NULL, 'HORIZONTAL')
+#2 [internal function]: Altum\Controllers\QrCodeGenerator->index()
+#3 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#4 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 534

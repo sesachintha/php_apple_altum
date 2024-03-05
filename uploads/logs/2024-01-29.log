@@ -1,0 +1,30 @@
+[28-Jan-2024 23:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[29-Jan-2024 12:12:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[29-Jan-2024 12:12:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[29-Jan-2024 12:13:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[29-Jan-2024 12:13:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[29-Jan-2024 12:19:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[29-Jan-2024 14:46:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[29-Jan-2024 14:46:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[29-Jan-2024 14:49:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43

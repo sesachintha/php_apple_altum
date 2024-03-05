@@ -1,0 +1,76 @@
+[20-May-2023 14:05:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:05:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 14:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 14:08:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[20-May-2023 14:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 14:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[20-May-2023 14:08:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 14:08:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[20-May-2023 14:20:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/PaymentProcessor.php:28
+Stack trace:
+#0 /home/allinkc/www/app/controllers/Link.php(85): Altum\Models\PaymentProcessor->get_payment_processors_by_user_id(1)
+#1 [internal function]: Altum\Controllers\Link->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/PaymentProcessor.php on line 28
+[20-May-2023 15:53:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 15:53:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[20-May-2023 17:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 17:48:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[20-May-2023 18:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[20-May-2023 18:24:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15

@@ -1,0 +1,10 @@
+[05-Mar-2023 01:17:37 UTC] PHP Warning:  A non-numeric value encountered in /home/allinkc/www/app/controllers/Sitemap.php on line 84
+[05-Mar-2023 01:17:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/themes/altum/views/sitemap/sitemap_x.php:4
+Stack trace:
+#0 /home/allinkc/www/app/core/View.php(35): require()
+#1 /home/allinkc/www/app/controllers/Sitemap.php(116): Altum\View->run(Object(stdClass))
+#2 [internal function]: Altum\Controllers\Sitemap->index()
+#3 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#4 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in /home/allinkc/www/themes/altum/views/sitemap/sitemap_x.php on line 4

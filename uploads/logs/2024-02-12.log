@@ -1,0 +1,21 @@
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:28:57 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:29:02 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:29:02 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:29:02 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:29:45 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:29:45 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:29:45 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:32:32 UTC] PHP Notice:  Undefined property: stdClass::$redirect_append in /app/themes/altum/views/index/index.php on line 308
+[12-Feb-2024 10:32:32 UTC] PHP Notice:  Undefined property: stdClass::$domains in /app/themes/altum/views/index/index.php on line 312
+[12-Feb-2024 10:32:32 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /app/themes/altum/views/index/index.php on line 312

@@ -1,0 +1,57 @@
+[12-Sep-2023 09:22:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[12-Sep-2023 09:22:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[12-Sep-2023 10:27:56 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to SimpleSoftwareIO\QrCode\Generator::createColor() must be of the type int, null given, called in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 323 and defined in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php:534
+Stack trace:
+#0 /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php(323): SimpleSoftwareIO\QrCode\Generator->createColor(NULL, NULL, NULL)
+#1 /home/allinkc/www/app/controllers/QrCodeGenerator.php(267): SimpleSoftwareIO\QrCode\Generator->gradient(NULL, NULL, NULL, 0, 0, 0, 'VERTICAL')
+#2 [internal function]: Altum\Controllers\QrCodeGenerator->index()
+#3 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#4 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#5 {main}
+  thrown in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 534
+[12-Sep-2023 10:29:07 UTC] PHP Fatal error:  Uncaught TypeError: Argument 5 passed to SimpleSoftwareIO\QrCode\Generator::eyeColor() must be of the type int, null given, called in /home/allinkc/www/app/controllers/QrCodeGenerator.php on line 250 and defined in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php:305
+Stack trace:
+#0 /home/allinkc/www/app/controllers/QrCodeGenerator.php(250): SimpleSoftwareIO\QrCode\Generator->eyeColor(0, 247, 209, 213, NULL, NULL, NULL)
+#1 [internal function]: Altum\Controllers\QrCodeGenerator->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 305
+[12-Sep-2023 10:29:28 UTC] PHP Fatal error:  Uncaught TypeError: Argument 5 passed to SimpleSoftwareIO\QrCode\Generator::eyeColor() must be of the type int, null given, called in /home/allinkc/www/app/controllers/QrCodeGenerator.php on line 250 and defined in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php:305
+Stack trace:
+#0 /home/allinkc/www/app/controllers/QrCodeGenerator.php(250): SimpleSoftwareIO\QrCode\Generator->eyeColor(0, 247, 209, 213, NULL, NULL, NULL)
+#1 [internal function]: Altum\Controllers\QrCodeGenerator->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 305
+[12-Sep-2023 10:29:50 UTC] PHP Fatal error:  Uncaught TypeError: Argument 2 passed to SimpleSoftwareIO\QrCode\Generator::eyeColor() must be of the type int, null given, called in /home/allinkc/www/app/controllers/QrCodeGenerator.php on line 250 and defined in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php:305
+Stack trace:
+#0 /home/allinkc/www/app/controllers/QrCodeGenerator.php(250): SimpleSoftwareIO\QrCode\Generator->eyeColor(0, NULL, NULL, NULL, 247, 209, 213)
+#1 [internal function]: Altum\Controllers\QrCodeGenerator->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/vendor/altumcode/simple-qrcode/src/Generator.php on line 305
+[12-Sep-2023 10:34:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[12-Sep-2023 10:34:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[12-Sep-2023 10:35:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[12-Sep-2023 11:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_object() on bool in /home/allinkc/www/app/models/Domain.php:43
+Stack trace:
+#0 /home/allinkc/www/app/controllers/BiolinksTemplates.php(55): Altum\Models\Domain->get_available_domains_by_user(NULL)
+#1 [internal function]: Altum\controllers\BiolinksTemplates->index()
+#2 /home/allinkc/www/app/core/App.php(204): call_user_func_array(Array, Array)
+#3 /home/allinkc/www/index.php(20): Altum\App->__construct()
+#4 {main}
+  thrown in /home/allinkc/www/app/models/Domain.php on line 43
+[12-Sep-2023 16:36:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[12-Sep-2023 16:36:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15
+[12-Sep-2023 16:42:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 8
+[12-Sep-2023 16:42:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/allinkc/www/themes/altum/views/dashboard/index.php on line 15

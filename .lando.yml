@@ -1,0 +1,14 @@
+name: allinks
+recipe: lamp
+config:
+  type: apache
+  webroot: .
+  ssl: true
+
+services:
+  database-allinks:
+    type: mysql
+    creds:
+      user: lndo_allinks
+      password: lndo_allinks
+      database: lndo_allinks
